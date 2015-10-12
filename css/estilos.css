@@ -1,0 +1,44 @@
+﻿@font-face{
+    font-family: fonteMarca;
+    src: url(../fonts/Champagne_Limousines-Thick.ttf);
+}
+.nome-marca{
+    font-family: fonteMarca !important;
+}
+.fa{
+    margin-bottom: 10px;
+}
+.grande{
+    font-size: 50px;
+}
+.borda-visivel{
+    border: 1px solid black ;
+}
+.fundinho-azul{
+    background-color: #08bdff;
+}
+.branco{
+    color: white;
+
+}
+.tamanho-normal{
+    font-size: 15pt;
+    text-align: justify;
+}
+
+.centralizar-img{
+    margin: auto;
+}
+.fundo-meio-transparente{
+
+    background-color:rgba(0,0,0,0.3);
+
+}
+
+
+.cinza{
+    color: rgb(51,51,51);
+}
+.metadelargura{
+    width: 50%;
+}
